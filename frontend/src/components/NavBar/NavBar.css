@@ -9,27 +9,52 @@ li {
 }
 
 .navBar {
-  background: steelblue;
-  box-shadow: 4px 2px 5px gray;
-  color: white;
+  background-color: #385F71;
+  box-shadow: 4px 2px 5px #071013;
   margin-bottom: 2rem;
   padding: 1.5rem 2rem;
+  font-size: larger;
 }
 
 .navBar button {
-  background: transparent;
-  border: 2px solid white;
-  color: white;
+  background-color: #385F71;
+  border: 1px solid #F6EEDF;
+  color:#F6EEDF;
   padding: 0.4rem 0.5rem;
+  font-size: large;
+
 }
 
 .navBar button:hover {
-  background: white;
-  color: steelblue;
+  background-color: #2E4162;
+  color: #F6EEDF;
+  border: 1px solid #071013;
   cursor: pointer;
 }
 
 .brand {
   cursor: pointer;
-  font-size: 2rem;
+  font-size: 3rem;
+  text-shadow: 
+		1px -1px 0 #071013,
+		1px 1px 0 #071013;
 }
+
+a {
+  color: #F6EEDF;
+    text-shadow: 
+		1px -1px 0 #071013,
+		1px 1px 0 #071013;
+}
+
+/* a:hover {
+  font-size: 1.30rem;
+}
+
+b {
+  color: #F6EEDF
+} */
+
+/* b.hover {
+  font-size: 3.25rem;
+} */

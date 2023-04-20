@@ -1,0 +1,15 @@
+.recipe-box {
+    margin: 10px;
+    padding: 10px;
+    justify-items: center;
+    align-items: center;
+}
+
+.recipe-img-pic {
+    width: 50%;
+    height: auto;
+}
+
+.recipe-name {
+    
+}

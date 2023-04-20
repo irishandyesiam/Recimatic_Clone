@@ -1,0 +1,12 @@
+
+.searchbar {
+    width:300px;
+    padding: 1px;
+    margin: 5px;
+}
+
+input[type=text] {
+    background-color: #F6EEDF;
+    color: #071013;
+}
+
